@@ -1,3 +1,8 @@
+/*
+ NAME  : VIKAS VYKUNTHAM VEERABATHINI
+ NU ID : 001302155
+ Please use g++ for compilation 
+ */
 #include <iostream>
 using namespace std;
 int main ()

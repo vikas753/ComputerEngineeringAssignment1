@@ -1,3 +1,11 @@
+/*
+ Student Name : VIKAS VYKUNTHAM VEERABATHINI 
+ NU ID : 001302155
+ Program : Insertion sort of Student Records in decreasing order 
+ Please use g++ <filename> -o <outputfile>
+ for Compilation purpose . 
+ */
+
 #include<iostream>
 #include<string>
 #include<vector>
@@ -44,7 +52,7 @@ bool SortTheStudentRecordsByGrade()
          greater than key, to one position ahead  
          of their current position */
 
-      while (j >= 0 && GradeArray[j] >= key) 
+      while (j >= 0 && GradeArray[j] <= key) 
       {  
         GradeArray[j + 1] = GradeArray[j];
         StudentNameArray[j+1] = StudentNameArray[j];  

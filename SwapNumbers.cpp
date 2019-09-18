@@ -1,7 +1,8 @@
 /*
  Name : VIKAS VEERABATHINI
  NU ID : 001302155
- Program : Swap by reference and pointers 
+ Program : Swap by reference and pointers
+ please use g++ for compilation 
 */
 
 #include<iostream>
