@@ -1,0 +1,35 @@
+Swap Numbers Output Demonstration
+
+Without Swap : 9,10
+Before SwapP : 9,10
+With SwapP : 10,9
+ Swap addresses : 0x7ffc621447cc,0x7ffc621447c8
+ Swap addresses P2 : 0x7ffc621447c8,0x7ffc621447cc
+ Swap addresses values SwapP2 : 9,10
+With SwapR :9,10
+
+Insertion Sort of students grade demonstration
+
+ Please enter the number of records :
+4
+ Please enter the student name :
+DK
+ Please enter the grade for DK valid range :: 0-100 --
+100
+ Please enter the student name :
+DP
+ Please enter the grade for DP valid range :: 0-100 --
+80
+ Please enter the student name :
+SNIPER
+ Please enter the grade for SNIPER valid range :: 0-100 --
+90
+ Please enter the student name :
+Warlock
+ Please enter the grade for Warlock valid range :: 0-100 --
+95
+ Student Name : DK Grade : 100
+ Student Name : Warlock Grade : 95
+ Student Name : SNIPER Grade : 90
+ Student Name : DP Grade : 80
+ 
